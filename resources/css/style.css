@@ -143,6 +143,7 @@ span {
 
     .card-text-block {
         text-align: center;
+        font-size: 1.25rem;
     }
 
     .card-image-block {
@@ -151,6 +152,10 @@ span {
 
     }
 
+    .stat-title {
+        font-size: 1.15rem;
+
+    }
 }
 
 @media (max-width: 460px) {
@@ -162,7 +167,7 @@ span {
     }
 
     .stat-block {
-        padding: 0 0 0.75rem 0;
+        padding: 0 0 1.75rem 0;
     }
 
 }
