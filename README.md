@@ -23,8 +23,8 @@ The shift between the layouts was a nice test for building responsive projects.
 
 ### Links
 
-- Solution URL: [repository]()
-- visit website [website]()
+- Solution URL: [repository](https://github.com/zlatozaraZlatkova/preview-card-component)
+- visit website [website](https://card-preview-product-component.netlify.app/)
 
 
 ## My process
