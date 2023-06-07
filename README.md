@@ -19,6 +19,7 @@ Thanks for checking out this front-end coding challenge.
 - [Author](#author)
 
 ## Overview
+This is a great small challenge to building to a design.
 The shift between the layouts was a nice test for building responsive projects.
 
 ### Links
